@@ -1,7 +1,7 @@
 export default {
   lang: 'en-US',
-  title: ' ',
-  description: 'A fast tunnel proxy that helps you bypass firewalls.',
+  title: 'Belfi',
+  description: 'A lightweight app for managing multiple proxy servers.',
 
   lastUpdated: true,
 

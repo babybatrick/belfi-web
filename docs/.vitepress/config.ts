@@ -8,19 +8,20 @@ export default {
   cleanUrls: true,
 
   head: [
-    ['script', {src: 'https://www.googletagmanager.com/gtag/'}],
+    ['script', {src: 'https://www.googletagmanager.com/gtag/js?id=G-8EPB62PDWX'}],
     ['script', {}, `window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'G-');`]
+    gtag('config', 'G-8EPB62PDWX');`],
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
 
   themeConfig: {
     nav: nav(),
 
     logo: {
-      dark: '/../src/img/logo-ffffff.svg',
-      light: '/../src/img/logo-1c1e21.svg',
+      dark: '/logo-ffffff.svg',
+      light: '/logo-1c1e21.svg',
       alt: 'Belfi'
     },
 

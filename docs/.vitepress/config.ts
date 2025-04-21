@@ -31,7 +31,7 @@ export default {
     },
 
     editLink: {
-      pattern: 'https://github.com/babybatrick/belfiweb/edit/main/docs/:path',
+      pattern: 'https://github.com/babybatrick/belfi-web/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
 

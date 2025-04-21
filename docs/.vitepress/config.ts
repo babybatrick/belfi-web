@@ -49,8 +49,8 @@ export default {
     },
 
     algolia: {
-      appId: '',
-      apiKey: '',
+      appId: 'K6D11WJ015',
+      apiKey: '440dd14202118a56e46c4e1ada4db5fc',
       indexName: 'belfi'
     },
   }

@@ -21,7 +21,7 @@ hero:
       text: GitHub
       link: https://github.com/babybatrick/belfi
   image:
-    src: /logo-1bb680.svg
+    src: /herologo.svg
     alt: VitePress
     width: 200
 

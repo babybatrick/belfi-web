@@ -1,6 +1,6 @@
 export default {
   lang: 'en-US',
-  title: '',
+  title: ' ',
   description: 'A lightweight app for managing multiple proxy servers.',
 
   lastUpdated: true,

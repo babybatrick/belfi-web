@@ -1,6 +1,6 @@
 export default {
   lang: 'en-US',
-  title: 'Belfi',
+  title: '',
   description: 'A lightweight app for managing multiple proxy servers.',
 
   lastUpdated: true,
